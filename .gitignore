@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+dist-ssr/
+/build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Go binaries
+*.exe
+*.o
+*.so
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# AI agents (local)
+ai-agents/
